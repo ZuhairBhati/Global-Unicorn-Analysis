@@ -1,4 +1,4 @@
-# Maven-Unicorn-Analysis
+# Global-Unicorn-Analysis
 A unicorn company is a private company with a valuation of more than $1 billion, and today there are over 1,000 unicorn companies around the world!
 
 * This [dataset](https://www.mavenanalytics.io/blog/maven-unicorn-challenge) contains a csv table with 1,074 records, one for each company
